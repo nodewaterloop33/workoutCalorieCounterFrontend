@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/workoutCalorieCounterFrontend/static/js/main.fb49b78e.chunk.js",
-    "main.js.map": "/workoutCalorieCounterFrontend/static/js/main.fb49b78e.chunk.js.map",
+    "main.js": "/workoutCalorieCounterFrontend/static/js/main.9afb1cd0.chunk.js",
+    "main.js.map": "/workoutCalorieCounterFrontend/static/js/main.9afb1cd0.chunk.js.map",
     "runtime-main.js": "/workoutCalorieCounterFrontend/static/js/runtime-main.089c188a.js",
     "runtime-main.js.map": "/workoutCalorieCounterFrontend/static/js/runtime-main.089c188a.js.map",
-    "static/js/2.2bdceb08.chunk.js": "/workoutCalorieCounterFrontend/static/js/2.2bdceb08.chunk.js",
-    "static/js/2.2bdceb08.chunk.js.map": "/workoutCalorieCounterFrontend/static/js/2.2bdceb08.chunk.js.map",
+    "static/js/2.090a1b24.chunk.js": "/workoutCalorieCounterFrontend/static/js/2.090a1b24.chunk.js",
+    "static/js/2.090a1b24.chunk.js.map": "/workoutCalorieCounterFrontend/static/js/2.090a1b24.chunk.js.map",
     "index.html": "/workoutCalorieCounterFrontend/index.html",
-    "static/js/2.2bdceb08.chunk.js.LICENSE.txt": "/workoutCalorieCounterFrontend/static/js/2.2bdceb08.chunk.js.LICENSE.txt"
+    "static/js/2.090a1b24.chunk.js.LICENSE.txt": "/workoutCalorieCounterFrontend/static/js/2.090a1b24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.089c188a.js",
-    "static/js/2.2bdceb08.chunk.js",
-    "static/js/main.fb49b78e.chunk.js"
+    "static/js/2.090a1b24.chunk.js",
+    "static/js/main.9afb1cd0.chunk.js"
   ]
 }
